@@ -67,18 +67,18 @@ img {
 @media (max-width: 1080px) {
    h1 {
   text-align: center;
-  font-size: 110px;
-  margin-top: 25vh;
+  font-size: 165px;
+  margin-top: 30vh;
   color: teal;
   animation-name: SlideNFade;
   animation-duration: 3s;
 }
 
 .BTN {
- font-size: 50px;
+ font-size: 100px;
  color: red;
  position: relative;
- left: 265px;
+ left: 295px;
 }
 
 .image{
