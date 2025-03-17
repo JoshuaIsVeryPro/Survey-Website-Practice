@@ -67,8 +67,8 @@ img {
 @media (max-width: 1080px) {
    h1 {
   text-align: center;
-  font-size: 165px;
-  margin-top: 30vh;
+  font-size: 200px;
+  margin-top: 20vh;
   color: teal;
   animation-name: SlideNFade;
   animation-duration: 3s;
@@ -78,11 +78,11 @@ img {
  font-size: 100px;
  color: red;
  position: relative;
- left: 295px;
+ left: 279px;
 }
 
 .image{
-  height: 140px;
+  height: 105px;
 }
   
 }
