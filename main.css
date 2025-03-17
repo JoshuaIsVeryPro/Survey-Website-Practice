@@ -59,8 +59,8 @@ img {
 @media screen and (max-width: 480px) {
    h1 {
   text-align: center;
-  font-size: 110px;
-  margin-top: 5vh;
+  font-size: 500px;
+  margin-top: 30vh;
   color: teal;
   animation-name: SlideNFade;
   animation-duration: 3s;
