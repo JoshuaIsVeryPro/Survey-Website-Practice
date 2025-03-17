@@ -69,20 +69,20 @@ img {
   text-align: center;
   font-size: 200px;
   margin-top: 20vh;
-  color: teal;
   animation-name: SlideNFade;
-  animation-duration: 3s;
+  animation-duration: 4s;
 }
 
 .BTN {
  font-size: 100px;
  color: red;
  position: relative;
- left: 279px;
+ left: 250px;
+ animation-duration: 4s;
 }
 
 .image{
-  height: 105px;
+  height: 80px;
 }
   
 }
