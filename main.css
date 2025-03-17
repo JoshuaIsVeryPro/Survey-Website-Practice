@@ -1,0 +1,73 @@
+body{
+  font-family: Lucida Handwriting, Cursive ;
+  background-color: floralwhite ;
+}
+
+h1 {
+  text-align: center;
+  font-size: 150px;
+  margin-top: 13vh;
+  color: teal;
+  animation-name: SlideNFade;
+  animation-duration: 3s;
+}
+/* Buttons */
+.BTN {
+ font-size: 50px;
+ color: red;
+ position: relative;
+ left: 410px;
+}
+.slideDown{
+  animation-name: SlideNFade;
+  animation-duration: 3s;
+}
+
+}
+a:visited {
+  text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+/* Image */
+img {
+  animation-name: slideImg;
+  animation-duration: 2s;
+}
+
+/* KeyFrames */
+
+@keyframes SlideNFade{
+  from {transform: translateY(-200px)}
+  to {transform: translateY(0px)}
+  
+    0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideImg{
+  from {transform: translateY(-100px)}
+  to {transform: translateY(0px)}
+  
+    0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+
+
+
+
+
+/* .nav1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.nav1 a.active {
+  background-color: #04AA6D;
+  color: white;
+} */
