@@ -5,8 +5,8 @@ body{
 
 h1 {
   text-align: center;
-  font-size: 5000px;
-  margin-top: 10vh;
+  font-size: 110px;
+  margin-top: 14vh;
   color: teal;
   animation-name: SlideNFade;
   animation-duration: 3s;
@@ -59,7 +59,7 @@ img {
 @media screen and (max-width: 480px) {
    h1 {
   text-align: center;
-  font-size: 500px;
+  font-size: 250px;
   margin-top: 30vh;
   color: teal;
   animation-name: SlideNFade;
