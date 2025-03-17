@@ -59,20 +59,25 @@ img {
 @media screen and (max-width: 480px) {
    h1 {
   text-align: center;
-  font-size: 350px;
+  font-size: 450px;
   margin-top: 50vh;
   color: teal;
   animation-name: SlideNFade;
   animation-duration: 3s;
 }
+
+.BTN {
+ font-size: 100px;
+ color: red;
+ position: relative;
+ left: 350px;
+}
+
 img{
   height: 100px;
   width: 150px;
       }
 
-
-
-  
 }
 
 
