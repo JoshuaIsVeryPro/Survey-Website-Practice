@@ -6,7 +6,7 @@ body{
 h1 {
   text-align: center;
   font-size: 110px;
-  margin-top: 13vh;
+  margin-top: 10vh;
   color: teal;
   animation-name: SlideNFade;
   animation-duration: 3s;
