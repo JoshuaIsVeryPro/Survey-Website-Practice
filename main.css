@@ -77,12 +77,12 @@ img {
  font-size: 100px;
  color: red;
  position: relative;
- left: 205px;
+ left: 199px;
  animation-duration: 4s;
 }
 
 .image{
-  height: 80px;
+  height: 76px;
 }
   
 }
