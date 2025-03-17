@@ -37,6 +37,7 @@ a:hover {
 img {
   animation-name: slideImg;
   animation-duration: 2s;
+  height: 55px;
 }
 
 /* KeyFrames */
@@ -77,12 +78,12 @@ img {
  font-size: 100px;
  color: red;
  position: relative;
- left: 185px;
+ left: 170px;
  animation-duration: 4s;
 }
 
 .image{
-  height: 76px;
+  height: 75px;
 }
   
 }
