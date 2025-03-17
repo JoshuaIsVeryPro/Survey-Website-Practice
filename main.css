@@ -56,18 +56,23 @@ img {
     0% { opacity: 0; }
   100% { opacity: 1; }
 }
-
-
-
-
-
-
-/* .nav1 a:hover {
-  background-color: #ddd;
-  color: black;
+@media screen and (max-width: 480px) {
+   h1 {
+  text-align: center;
+  font-size: 110px;
+  margin-top: 5vh;
+  color: teal;
+  animation-name: SlideNFade;
+  animation-duration: 3s;
 }
 
-.nav1 a.active {
-  background-color: #04AA6D;
-  color: white;
-} */
+
+
+
+
+  
+}
+
+
+
+
