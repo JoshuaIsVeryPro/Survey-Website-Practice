@@ -56,7 +56,7 @@ img {
     0% { opacity: 0; }
   100% { opacity: 1; }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 720px) {
    h1 {
   text-align: center;
   font-size: 450px;
