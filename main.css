@@ -16,7 +16,7 @@ h1 {
  font-size: 50px;
  color: red;
  position: relative;
- left: 410px;
+ left: 400px;
 }
 .slideDown{
   animation-name: SlideNFade;
